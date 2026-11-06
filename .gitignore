@@ -1,0 +1,12 @@
+# Public repo: never commit credentials, token files or real list data
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.tokens
+*_tokens
+.anylist_credentials
+anylist_tokens*
+local/
+*.log
