@@ -25,5 +25,5 @@ Kewins login ligger i en env-fil under `~/.config/summer/` (uden for repoet).
 
 ## Næste skridt
 
-- Licens og udgivelse på GitHub (MIT, ejer Kewin Sommer Pedersen; Kewin skal bekræfte).
+- Udgiv på npm (Kewin kører selv `npm login` og `npm publish`; `prepublishOnly` kører typecheck, test og build). Repo og MIT-licens er på plads (6. november 2026).
 - Brug klienten i indkøbsagenten (nemlig/BilkaToGo via handle-mcp): se summer-recipes/docs/IDE-NEMLIG.md.
