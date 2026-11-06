@@ -17,11 +17,11 @@ Fælles regler: [summer-hub/CLAUDE.md](https://github.com/kekwin/summer-hub/blob
 ## Kør og test
 
 `npm test` (6 enhedstests mod en falsk AnyList) · `npm run build` · `npm run smoke -- <env-fil> "<liste>" [--write]`.
-Kewins login ligger i `C:\Users\Kewin\.config\summer\anylist.env` (uden for repoet).
+Kewins login ligger i en env-fil under `~/.config/summer/` (uden for repoet).
 
 ## Status
 
-0.1.0: klient skrevet og prøvet live mod Kewins indkøbsliste (læs, tilføj, afkryds, slet) 7. november 2026.
+0.1.0: klient skrevet og prøvet live mod Kewins indkøbsliste (læs, tilføj, afkryds, slet) 6. november 2026.
 
 ## Næste skridt
 
