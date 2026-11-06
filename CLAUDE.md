@@ -1,6 +1,6 @@
-# CLAUDE.md – summer-anylist
+# CLAUDE.md – tiny-anylist
 
-Lille uofficiel TypeScript-klient til AnyList (læs lister, tilføj, afkryds, omdøb, slet). Repo: https://github.com/kekwin/summer-anylist
+Lille uofficiel TypeScript-klient til AnyList (læs lister, tilføj, afkryds, omdøb, slet). Repo: https://github.com/kekwin/tiny-anylist
 (**offentligt** når det er udgivet). Tal med ejeren på dansk; README og kode er på engelsk. Push direkte til `main`.
 Fælles regler: [summer-hub/CLAUDE.md](https://github.com/kekwin/summer-hub/blob/main/CLAUDE.md) (privat repo).
 

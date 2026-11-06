@@ -322,7 +322,7 @@ function toList(list: RawList): AnyListList {
  * so the body is built by hand.
  */
 function multipartBinary(field: string, bytes: Uint8Array): { body: Uint8Array<ArrayBuffer>; contentType: string } {
-  const boundary = `----summer-anylist-${randomUUID()}`;
+  const boundary = `----tiny-anylist-${randomUUID()}`;
   const head = new TextEncoder().encode(
     `--${boundary}\r\nContent-Disposition: form-data; name="${field}"\r\nContent-Type: application/octet-stream\r\n\r\n`,
   );

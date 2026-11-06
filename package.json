@@ -1,5 +1,5 @@
 {
-  "name": "summer-anylist",
+  "name": "tiny-anylist",
   "version": "0.1.0",
   "description": "Small unofficial TypeScript client for AnyList shopping lists (read lists, add, check, rename and remove items).",
   "type": "module",

@@ -1,4 +1,4 @@
-# summer-anylist
+# tiny-anylist
 
 A small, unofficial TypeScript client for [AnyList](https://www.anylist.com) shopping lists.
 Read your lists, add items, check them off, rename them and remove them. Nothing else.
@@ -13,7 +13,7 @@ Read your lists, add items, check them off, rename them and remove them. Nothing
 ## Use
 
 ```ts
-import { AnyListClient } from "summer-anylist";
+import { AnyListClient } from "tiny-anylist";
 
 const client = new AnyListClient({
   email: process.env.ANYLIST_EMAIL!,
