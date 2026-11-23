@@ -25,5 +25,4 @@ Kewins login ligger i en env-fil under `~/.config/summer/` (uden for repoet).
 
 ## Næste skridt
 
-- Udgiv på npm (Kewin kører selv `npm login` og `npm publish`; `prepublishOnly` kører typecheck, test og build). Repo og MIT-licens er på plads (6. november 2026).
-- Brug klienten i indkøbsagenten (nemlig/BilkaToGo via handle-mcp): se summer-recipes/docs/IDE-NEMLIG.md.
+Intet planlagt. Udgivet på npm, og indkøbsagenten (`summer-groceries`) bruger den (`^0.1.0`).
